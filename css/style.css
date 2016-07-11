@@ -1,0 +1,26 @@
+#time{
+  background-color : black;
+  color : red;
+  width: 180px;
+  height: 160px;
+  border-radius: 40%;
+  margin: 0 auto;
+  margin-top: 20px;
+
+}
+.timer{
+    font-family: 'Press Start 2P', cursive;
+  font-size: 55px;
+    position: relative;
+left:10%;
+  top: 20%;
+  line-height: 50px;
+}
+#wrapper{
+  margin: 10px;
+  text-align: center;
+}
+h1{
+  margin: 10px;
+  text-align: center;
+}
